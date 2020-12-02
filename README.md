@@ -1,6 +1,10 @@
 ## Pig Dice Game
 
-GAME RULES:
+Part of the Udemy Course - 'The Complete JavaScript Course 2020' by Jonas Schmedtmann - @jonasschmedtmann, https://github.com/jonasschmedtmann
+
+HTML/CSS by Jonas Schmedtmann, Javascript by me
+
+###GAME RULES:
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND score
